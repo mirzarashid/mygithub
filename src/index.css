@@ -1,0 +1,38 @@
+body {
+ text-align: center;
+ background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./images/drum-wallpaper.jpg);
+}
+.container{
+  margin:auto;
+  /* width:70px; */
+  text-align: center;
+}
+h1{
+margin: 20px;
+font-family:'Courier New', Courier, monospace;
+font-size: 6rem;
+color: #fff;
+}
+h4{
+  margin: 20px 0px;
+  font-size: 2rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #fff;
+}
+img{
+  height: 100px;
+  width:100px;
+  background: #fff;
+  border: 6px solid #fff;
+  margin:20px 0px 60px 0px;
+}
+.btn{
+  height: 150px;
+  width:150px;
+  margin: 30px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  border: 6px solid #fff;
+  border-radius: 10px;
+
+}
